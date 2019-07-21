@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\NET02.3\NET02.3\obj\Debug\NET02.3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NET02.3\NET02.3\obj\Debug\NET02.3.csproj.CoreCompileInputs.cache
